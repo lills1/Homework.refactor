@@ -14,7 +14,9 @@ body {
     background-color: #2a607c;
     color: #ffffff;
     position:fixed;
+    width:100%;
 }
+
 
 .header h1 {
     display: inline-block;
