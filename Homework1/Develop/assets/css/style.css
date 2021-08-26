@@ -36,6 +36,8 @@ li {
   margin-left: 95px;
 }
 
+/*these id's are found in the table*/
+
 #seo, #orm, #smm {
     display:inline;
 }
@@ -104,78 +106,38 @@ a {
     background-color: #2589bd;
 }
 
-.benefit-lead {
+.side-text {
     margin-bottom: 32px;
     color: #ffffff;
     font-size: 17px;
 }
 
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-    font-size: 17px;
-}
 
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-    font-size: 17px; 
-}
-
-.benefit-lead h3 {
+.side-text h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-lead img {
+/*these id's are found in the images in div called benefits*/
+#lead-gen {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.benefit-brand img {
+#ba {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.benefit-cost img {
+#cm {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.search-engine-optimization {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-    font-size: large;
-}
-
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-    font-size:large;
-}
-
-.social-media-marketing {
+.paragraph {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -186,33 +148,16 @@ a {
 }
 
 
-.search-engine-optimization img {
+.paragraph img {
     max-height: 200px;
 }
 
 
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-.search-engine-optimization h2 {
+.paragraph h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
 
 .footer {
     padding: 30px;
